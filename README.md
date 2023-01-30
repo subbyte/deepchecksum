@@ -1,2 +1,1 @@
-# deepchecksum
-File checksum verification using deephash
+# File Checksum Verification Using deephash
